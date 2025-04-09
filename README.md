@@ -5,7 +5,6 @@
 Este repositório contém implementações de **estruturas de dados** em **Python**, incluindo Listas Encadeadas, Listas Ordenadas e Árvores Binárias. O projeto foi criado para facilitar o aprendizado prático dessas estruturas, demonstrando sua aplicação em contextos reais, como no desenvolvimento de jogos.
 
 ## Contribuidores 
-###### (este trabalho foi realizado em dupla)
 
 * João Matheus Bezerra
 * RGM: 38964694

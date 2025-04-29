@@ -22,6 +22,7 @@ EstruturasDeDados/
 ├── ListasEncadeadas/
 │   ├── node.py
 │   └── Lista_Simples.py
+|   └── Pilhas.py
 ├── ListasOrdenadas/
 │   └── Listas_Ordenadas.py
 ├── ArvoresBinarias/
